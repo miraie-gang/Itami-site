@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
   return (<>
     <Head>
         <title>Itami's dumb site</title>
-        <link rel="shortcut icon" href="https://cdn.discordapp.com/icons/993995953147220080/a_83e5161ce9704f0ccefa3bd553fef29f.png?size=4096" type="image/x-icon" ></link>
+        <link rel="shortcut icon" href="https://media.discordapp.net/attachments/994726463913852999/1001985777988808784/ezgif.com-gif-maker_1.png" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
@@ -73,7 +73,7 @@ function MyApp({ Component, pageProps }) {
             <div>
               <p>🤟😎 İtami</p></div>
             <div className="mt-2 md:mt-0 flex items-center">
-              <a href="https://discord.gg/58e5H4try3" target="_blank" rel="noreferrer" className="w-full md:w-auto bg-neutral-700/5 hover:bg-neutral-700/20 px-4 py-2 rounded-md transition-all duration-200">
+              <a href="https://discord.gg/FsjaDhXh8M" target="_blank" rel="noreferrer" className="w-full md:w-auto bg-neutral-700/5 hover:bg-neutral-700/20 px-4 py-2 rounded-md transition-all duration-200">
                 <i className="fab fa-discord mr-2" />Join My Discord
               </a>
             </div>
