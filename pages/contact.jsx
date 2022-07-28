@@ -20,7 +20,7 @@ export default function Home() {
                         <p className="font-semibold text-xl">@hz.legion/p>
                     </div>
                 </a>
-                <a target="_blank" rel="norefferer" href="https://youtu.be/oHg5SJYRHA0">
+                <a target="_blank" rel="norefferer" href="https://www.facebook.com/DwayneJohnson">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-facebook fa-2x" />
                         <p className="font-semibold text-xl">buben</p>
