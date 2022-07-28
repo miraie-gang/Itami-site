@@ -32,7 +32,7 @@ export default function Home() {
                         <p className="font-semibold text-xl">Itami#1111</p>
                     </div>
                 </a>
-                <a href=mailto:"mailto:annenisiktim@gmail.com">
+                <a href="mailto:annen@gmail.com">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fa fa-envelope fa-2x" />
                         <p className="font-semibold text-xl">Gizli sakın acma</p>
